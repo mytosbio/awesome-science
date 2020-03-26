@@ -8,6 +8,11 @@ A curated list of awesome Science data sets and open source tools.
 
 * [ChEMBL](https://www.ebi.ac.uk/chembl/) - A manually curated chemical database of bioactive molecules with drug-like properties.
 
+## Image Processing
+
+*Open source tools for image processing*
+
+* [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cellular segmentation
 
 ## Hardware
 
